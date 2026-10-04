@@ -36,6 +36,6 @@ Mobile screenshots:
 
 Summary:
 
-I understand how to bootstrap (by using link). I understand how to use media queries (by using @media).
+I understand how to bootstrap (by using link). I understand how to use media queries (by using @media). I used link to use css styles from the bootstrap.
 
 Web-page: https://danial2032.github.io/assignment_3_web/
