@@ -28,6 +28,12 @@ Task 4:
 
 <img width="1884" height="436" alt="imag4" src="https://github.com/user-attachments/assets/0bf5e58e-6822-48a0-bc7c-12d766f89eb8" />
 
+Mobile screenshots:
+
+<img width="738" height="1600" alt="imag1" src="https://github.com/user-attachments/assets/d16b58ad-a242-4459-b781-63817b416070" />
+
+<img width="738" height="1600" alt="imag2" src="https://github.com/user-attachments/assets/d7fe2d21-0945-4e37-a4cf-227891be264c" />
+
 Summary:
 
 I understand how to bootstrap (by using link). I understand how to use media queries (by using @media).
